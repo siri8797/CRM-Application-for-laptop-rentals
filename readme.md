@@ -1,5 +1,11 @@
 A CRM APPLICATION FOR LAPTOP RENTALS
 
+
+## Demonstration
+
+[![Demo Video](https://img.youtube.com/vi/1LPCCrnY71qEdkkGeg8TkLURvzlV1ss-l/0.jpg)](https://drive.google.com/file/d/1LPCCrnY71qEdkkGeg8TkLURvzlV1ss-l/view?usp=drive_link)
+
+
 1.Project Overview
 
 The CRM Application for Laptop Rentals focuses on efficiently delivering rental items to customers, leveraging customer relationship management (CRM) to improve customer experiences, streamline store operations, and increase overall efficiency. Additionally, the project emphasizes effective CRM practices, specifically through targeted email communication with potential customers.
